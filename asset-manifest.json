@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/ChatUni/static/css/main.d8c11518.css",
-    "main.js": "/ChatUni/static/js/main.6d279f7d.js",
-    "static/media/test.png": "/ChatUni/static/media/test.9ea35475e35926bbb138.png",
+    "main.css": "/ChatUni/static/css/main.c6af3cd8.css",
+    "main.js": "/ChatUni/static/js/main.a7a0ee52.js",
     "index.html": "/ChatUni/index.html",
-    "main.d8c11518.css.map": "/ChatUni/static/css/main.d8c11518.css.map",
-    "main.6d279f7d.js.map": "/ChatUni/static/js/main.6d279f7d.js.map"
+    "main.c6af3cd8.css.map": "/ChatUni/static/css/main.c6af3cd8.css.map",
+    "main.a7a0ee52.js.map": "/ChatUni/static/js/main.a7a0ee52.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8c11518.css",
-    "static/js/main.6d279f7d.js"
+    "static/css/main.c6af3cd8.css",
+    "static/js/main.a7a0ee52.js"
   ]
 }

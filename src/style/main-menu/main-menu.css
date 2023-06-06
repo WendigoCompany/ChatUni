@@ -1,0 +1,25 @@
+.main-msj{
+    color: #558648;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.input-name{
+    font-family: 'Chakra Petch', sans-serif; 
+    text-align: center;
+    background-color: #a0a0a068;
+    color: #ffffff;
+}
+
+.main-menu-accept {
+    color: #7cda63;
+    border: .3vh solid #7cda63;
+}
+
+.main-menu-cancel {
+    color: #c62b2b;
+    border: .3vh solid #c62b2b;
+}
+
+
+
+

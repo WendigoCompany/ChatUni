@@ -1,0 +1,24 @@
+.main-msj-mob{
+    font-size: 3.5vh;
+    margin: 7vh 0vw 8vh 0vw;
+}
+
+.input-name-mob{
+    font-size: 4vh;
+    padding: 1vh 0vw;
+    width: 100%;
+}
+
+
+.main-menu-accept-mob {
+    font-size: 3vh;
+        width: 100%;
+    margin: 2vh 0vh 2vh 0vh;
+    padding: 1vh 0vw;
+}
+
+.main-menu-cancel-mob {
+    font-size: 3vh;
+    width: 100%;
+    padding: 1vh 0vw;
+}

@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    color: #97d0e0;
+}
+
+.title-mob {
+    font-size: 5vh;
+}
+
+.title-desk {
+    font-size: 5vw; 
+}

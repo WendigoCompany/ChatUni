@@ -1,0 +1,23 @@
+.main-msj-desk{
+    font-size: 2.5vw;
+    margin: 4vh 0vw 8vh 0vw;
+}
+
+.input-name-desk{
+    font-size: 2.5vw;
+    padding: 1vh 0vw;
+    width: 50%;
+}
+
+.main-menu-accept-desk {
+    font-size: 3vh;
+        width: 50%;
+    margin: 2vh 0vh 2vh 0vh;
+    padding: 1vh 0vw;
+}
+
+.main-menu-cancel-desk {
+    font-size: 3vh;
+    width: 50%;
+    padding: 1vh 0vw;
+}

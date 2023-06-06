@@ -1,0 +1,19 @@
+.back-img {
+    background-color: #ff080883;
+    border-radius: 50%;
+}
+
+.btn-chat {
+    font-family: 'Play', sans-serif; 
+    border: none; 
+}
+
+.btn-chat-normal {
+    color: #000000d6;
+    background-color: #ffffffd6;
+}
+
+.btn-chat-cheer {
+    color: #92efffd6;
+    background-color: #3c658fe5;
+}

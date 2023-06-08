@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ChatUni/static/css/main.044a55fc.css",
-    "main.js": "/ChatUni/static/js/main.19ee25e9.js",
+    "main.js": "/ChatUni/static/js/main.fce20d1f.js",
     "index.html": "/ChatUni/index.html",
     "main.044a55fc.css.map": "/ChatUni/static/css/main.044a55fc.css.map",
-    "main.19ee25e9.js.map": "/ChatUni/static/js/main.19ee25e9.js.map"
+    "main.fce20d1f.js.map": "/ChatUni/static/js/main.fce20d1f.js.map"
   },
   "entrypoints": [
     "static/css/main.044a55fc.css",
-    "static/js/main.19ee25e9.js"
+    "static/js/main.fce20d1f.js"
   ]
 }
